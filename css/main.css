@@ -2,7 +2,8 @@ html {
   box-sizing: border-box;
   font-family: sans-serif;
 }
-*, *::before. *::after {
+
+*, *::before, *::after {
   box-sizing: inherit;
 }
 
@@ -16,6 +17,7 @@ html {
   border: 1px solid #ccc;
   border-radius: 0 6px 6px;
 }
+
 .card-body {
   padding: .2rem 1rem;
 }
