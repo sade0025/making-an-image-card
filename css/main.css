@@ -6,7 +6,7 @@ html {
   box-sizing: inherit;
 }
 
-.img flex {
+.img-flex {
   display: block;
   width: 100%;
 }
@@ -20,7 +20,7 @@ html {
   padding: .2rem 1rem;
 }
 
-.card-title{
+.card-title {
   margin: 0;
   padding: .3rem 1rem;
   position: absolute;
